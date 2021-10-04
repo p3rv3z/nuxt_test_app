@@ -13,6 +13,7 @@
         <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
           <nuxt-link to="/" class="mr-5 hover:text-gray-900">Home</nuxt-link>
           <nuxt-link to="users" class="mr-5 hover:text-gray-900">Users</nuxt-link>
+          <nuxt-link to="products" class="mr-5 hover:text-gray-900">Products</nuxt-link>
           <nuxt-link to="about" class="mr-5 hover:text-gray-900">About</nuxt-link>
         </nav>
       </div>
